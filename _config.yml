@@ -1,7 +1,7 @@
 # Basic Site Settings
 locale          : "en-US"
 site_theme      : "default"
-title           : "the-bird"
+title           : "Pengchao Feng"
 title_separator : "-"
 name            : &name "Pengchao Feng"
 description     : &description "Academic homepage of Pengchao Feng"
