@@ -17,6 +17,16 @@ My research interests focus on **Spoken Dialogue Systems**, **Text-to-Speech**, 
 
 - *2022.09 – Present*: Shanghai Jiao Tong University (SJTU), College of Electronic Information and Electrical Engineering, Major in Artificial Intelligence.
 
+
+## Internships <span id="-internships"></span>
+
+- *2025.06 – 2025.10*: **Shanghai Innovation Institute**, Research Intern  
+  - Working on speech synthesis system for Chinese dialects
+
+- *2025.11 – Present*: **Tongyi Speech Lab**, Research Intern  
+  - Working on End-to-End Speech Language Model
+
+
 ## Publications <span id="-publications"></span>
 
 
@@ -33,7 +43,7 @@ My research interests focus on **Spoken Dialogue Systems**, **Text-to-Speech**, 
     <p>
       <strong>Task Vector in TTS: Toward Emotionally Expressive Dialectal Speech Synthesis</strong><br>
       <span style="color:#a05a20">Pengchao Feng</span>, Yao Xiao, Ziyang Ma, Zhikang Niu, Shuai Fan, Yao Li, Sheng Wang, and Xie Chen*.<br>
-      preprint<br>
+      ICASSP 2026<br>
       <a href="https://arxiv.org/abs/2512.18699">arXiv</a> &nbsp;|&nbsp;
       <a href="https://github.com/the-bird-F/Expressive-Vectors">Code</a>
     </p>
@@ -82,14 +92,6 @@ My research interests focus on **Spoken Dialogue Systems**, **Text-to-Speech**, 
   </div>
 </div>
 
-
-## Internships <span id="-internships"></span>
-
-- *2025.06 – 2025.10*: **Shanghai Innovation Institute**, Research Intern  
-  - Working on speech synthesis system for Chinese dialects
-
-- *2025.11 – Present*: **Tongyi Speech Lab**, Research Intern  
-  - Working on End-to-End Speech Language Model
 
 
 ## Honors and Awards <span id="-honors-and-awards"></span>
