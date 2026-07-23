@@ -10,9 +10,11 @@ redirect_from:
 <span id="about-me"></span>
 
 **Welcome to my homepage!** 👋  
-I started my journey at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) back in 2022 as an undergraduate in Artificial Intelligence. Now, I've taken the next big step – I'm a Ph.D. student in **Computer Science and Technology** at SJTU (since September 2026), and I couldn't be more excited! 🎉 I'm also a member of the [X-LANCE](https://x-lance.github.io/) Lab and the [Shanghai Innovation Institute](https://www.sii.edu.cn/).
+
+I started my journey at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) back in 2022 as an undergraduate in Artificial Intelligence. Now, I've taken the next big step – I'm a Ph.D. student at SJTU [X-LANCE](https://x-lance.github.io/) Lab, and [Shanghai Innovation Institute](https://www.sii.edu.cn/), and I couldn't be more excited! 🎉
 
 My current research interests include: **Spoken Dialogue Systems**, **Text-to-Speech**, and **AI for Science**.
+
 If you're into these topics too, feel free to reach out! ✨
 
 ## Education <span id="-education"></span>
