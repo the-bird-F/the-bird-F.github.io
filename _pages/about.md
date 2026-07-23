@@ -17,8 +17,8 @@ If you're into these topics too, feel free to reach out! ✨
 
 ## Education <span id="-education"></span>
 
-- *2026.09 – present*: Shanghai Jiao Tong University (SJTU), Schoole of Computer Science, Major in Computer Science and Technology.
-- *2022.09 – 2026.06*: Shanghai Jiao Tong University (SJTU), College of Electronic Information and Electrical Engineering, Major in Artificial Intelligence.
+- *2026.09 – Present*: Shanghai Jiao Tong University (SJTU), School of Computer Science, majoring in Computer Science and Technology.
+- *2022.09 – 2026.06*: Shanghai Jiao Tong University (SJTU), College of Electronic Information and Electrical Engineering, majoring in Artificial Intelligence.
 
 
 ## Internships <span id="-internships"></span>
